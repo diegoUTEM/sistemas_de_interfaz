@@ -34,13 +34,12 @@ header{
 h1{
     color: black;
     font-family: 'Patua One', cursive;
-    font: size 60px; ;
-    font-weight:500 ;
+    font-size: 60px;
+    font-weight:  500px;
     text-align: center ;
-    line-height: 92px;
-    padding-top: 720px;
-    padding-right: 150px;
-    padding-left: 150px ;
+    line-height: 52px;
+    padding-right: 10px;
+    padding-left: 10px ;
 }
 article{
     float: left;
@@ -94,7 +93,7 @@ footer{
 
 }
 .texto{
-    font-size: 30px;
+    font-size: 35px;
     text-align: left;
     padding-top: 35px;
 }
