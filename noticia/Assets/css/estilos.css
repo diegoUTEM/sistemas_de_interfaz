@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant&family=Patua+One&display=swap');
+body{
+    margin: 0px;
+}
+nav{
+    background-color: red;
+    margin-top: -35px;
+    height: 60px;
+}
+.ul{
+    margin-left: 50px;
+}
+
+li{
+    display: inline-block;
+    font-family: 'Patua One', cursive;
+    list-style: none;
+    margin-top: 25px;
+    padding: 0 4rem;
+    font-weight: 300;
+    letter-spacing: .3rem;
+    color: black;
+}
+header{
+    background-image: url(../img/header.jpg);
+    background-size:1917px ;
+    height:690px ;
+    margin-top:-48px ;
+}
+.subtitulo{
+    line-height: 1469;
+
+}
+h1{
+    color: black;
+    font-family: 'Patua One', cursive;
+    font: size 60px; ;
+    font-weight:500 ;
+    text-align: center ;
+    line-height: 92px;
+    padding-top: 720px;
+    padding-right: 150px;
+    padding-left: 150px ;
+}
+article{
+    float: left;
+    padding-bottom: 100px;
+
+}
+#envoltorio{
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 200px;
+    padding-top: 150px;
+}
+.bajada{
+    text-align: center;
+}
+h2{
+    color: black;
+    font-family: 'Patua One', cursive;
+    font-size: 30px;
+    font-style: italic;
+    border-left: solid red 5px;
+    padding-left: 3px;
+}
+p{
+    font-family: 'Patua One', cursive;
+    font-size: 35px;
+}
+blockquote{
+    font-family: 'Patua One', cursive;
+    font-size: 30px;
+    font-style: italic;
+    border-left: solid red 5px;
+    padding-left: 3px;
+
+}
+aside{
+    background-color: red;
+    height: 1230px;
+    width: 15%;
+    float: right;
+    margin-right: 30px;
+}
+.clear{
+    clear: both;
+}
+footer{
+    background-color: red;
+    height: 300px;
+    margin: 0px;
+
+}
+.texto{
+    font-size: 30px;
+    text-align: left;
+    padding-top: 35px;
+}
